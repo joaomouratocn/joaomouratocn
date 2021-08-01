@@ -1,4 +1,4 @@
-### Ola, 👋
+### Ola 👍
 
 - 🌱 I’m currently learning kotlin
 
@@ -10,7 +10,7 @@
 
  <div style="display: inline_block"><br>
   <img align="center" alt="Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 </div>
  <br>
  <div>
