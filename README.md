@@ -1,4 +1,4 @@
-### Ola 👍
+### Hello 👍
 
 - 🌱 I’m currently learning kotlin
 
