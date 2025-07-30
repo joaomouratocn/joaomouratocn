@@ -1,6 +1,6 @@
 ### Hello 👍
 
-- 🌱 I’m currently learning kotlin
+- 🌱 I’m currently learning NextJs
 
 <br>
 
