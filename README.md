@@ -1,6 +1,6 @@
 ### Hello 👍
 
-- 🌱 I’m currently learning NextJs
+- 🌱 I’m currently learning Spring Boot
 
 <br>
 
